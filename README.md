@@ -15,3 +15,5 @@ I created this file while working on some feature for noon app test builds flow,
 ## License
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
+## Disclaimer
+I used Google Gemini Guided Learning to help me write this code. I find it a very useful way to learn narrow technical topics quickly. However, please review and test the code thoroughly before using it in production, as I may have made mistakes or oversights.
